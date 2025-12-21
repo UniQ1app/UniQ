@@ -1,52 +1,58 @@
-# UniQ: Interactive Gateway to Qubic Academy 🎓🚀
+# 💎 UniQ: The Gateway to Qubic Ecosystem
 
-UniQ is a modular ecosystem designed to eliminate information fragmentation within the Qubic network.  
-We integrate **real-time news, market data, and a Learn-to-Earn (L2E) platform** into a single mobile-first interface.  
-Our mission: **transform passive observers into educated, active participants**.
+![UniQ Logo](assets/IMG_0356.PNG)  
 
----
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)  
+[![License](https://img.shields.io/badge/license-MIT-blue)](#)  
+[![Qubic Network](https://img.shields.io/badge/Qubic-Network-purple)](#)
 
-## 📱 App Preview
-
-<p align="center">
-  <img src="IMG_0356.png" width="220">
-  <br>
-  <img src="IMG_0324.png" width="180">
-  <img src="IMG_0332.png" width="180">
-  <img src="IMG_0333.png" width="180">
-</p>
+> All-in-one mobile platform to accelerate Qubic adoption
 
 ---
 
-## 🎯 Core Modules
+## 🚀 Executive Summary
+<details>
+<summary>Click to expand</summary>
 
-- **News & Market Aggregator:** Automated feeds from official sources like Discord, Telegram, and RSS.  
-- **Learn-to-Earn (L2E) Engine:** Interactive courses where users earn **$UNIQ** rewards for completing lessons and quizzes.  
-- **Project Tracker:** Transparent dashboard monitoring milestones and project progress.  
-- **User Dashboard:** Personalized profiles tracking knowledge levels, badges, and activity.  
+UniQ is an all-in-one mobile platform designed to accelerate Qubic adoption.  
+We solve the "complexity barrier" by combining **real-time ecosystem tracking** with a **gamified Learn-to-Earn model**.  
 
----
+**Goal:** Transform passive observers into educated, active Qubic holders.
 
-## 💎 $UNIQ Tokenomics
+**Visual Concept:**  
+🎓 Learn-to-Earn | 📊 Ecosystem Tracker | 💬 Community Chat
 
-- **Learn-to-Earn Rewards:** 40%  
-- **Ecosystem Incentives:** 20%  
-- **Team & Advisors:** 20%  
-- **Treasury / DAO:** 15%  
-- **Liquidity:** 5%  
+![Executive Summary Visual](assets/IMG_0332.PNG)
 
----
-
-## 🛠 Project Roadmap
-
-- **Phase 1 (Jan-Feb):** Launch News, Market Feed, and Project Tracker.  
-- **Phase 2 (Mar-Apr):** Implement L2E Engine and Quiz system.  
-- **Phase 3 (May-Jun):** Non-custodial Wallet integration and Marketplace.  
+</details>
 
 ---
 
-## 👤 Contact
+## 🌟 Core Features
+<details>
+<summary>Click to expand</summary>
 
-- **Team:** albdevteam
-- **Discord:** old_source  
-- **Documentation:** [Download UniQ One-Pager (PDF)](UniQ.pdf)
+| Feature | Icon | Description |
+|---------|------|-------------|
+| Learn-to-Earn | 🎓 | Interactive quizzes, UNIQ rewards |
+| Ecosystem Tracker | 📊 | Live updates on Qubic projects |
+| Market & Macro | 📈 | Real-time price & sentiment alerts |
+| Integrated Community | 💬 | Verified chat via Qubic ID |
+
+**Mockups / Visual Infographic:**  
+![Core Features](assets/IMG_0333.PNG)
+
+</details>
+
+---
+
+## 💰 Tokenomics: UNIQ
+<details>
+<summary>Click to expand</summary>
+
+* **Phase 1 (Internal):** Utility token for learning & engagement  
+* **Phase 2 (Value Bridge):** Optional swap to QUBIC or native rewards  
+* **Total Supply:** 20,000,000 UNIQ  
+
+**Token Flow Diagram:**  
+![Tokenomics Diagram](assets/IMG_0334.PNG)
