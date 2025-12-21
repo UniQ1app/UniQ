@@ -104,9 +104,9 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 | Name | Role | Expertise |
 |------|------|-----------|
 | Arbër Beqiri | Founder & Product Lead | Blockchain adoption, mobile ecosystems |
-| [Dev Name] | Lead Blockchain Engineer | Smart contracts, Qubic integration |
-| [UX/UI Name] | Head of Design | Gamified learning, UI/UX |
-| [Community Name] | Community Manager | Engagement, moderation, onboarding |
+| [Dibran Hoxha & Fatlum Berhami] | Lead Blockchain Engineer | Smart contracts, Qubic integration |
+| [Arber Beqiri] | Head of Design | Gamified learning, UI/UX |
+| [Dardan Ternava] | Community Manager | Engagement, moderation, onboarding |
 
 **Visual Team Cards:**  
 ![Team Cards](IMG_0333.png)
