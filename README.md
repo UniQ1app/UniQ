@@ -54,5 +54,5 @@ UniQ is built with a modular, scalable approach to ensure low-cost maintenance a
 ### Steps
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/your-username/uniq-app.git](https://github.com/your-username/uniq-app.git)
+   git clone [https://github.com/uniq1app/uniq-app.git](https://github.com//uniq-app.git)
 
