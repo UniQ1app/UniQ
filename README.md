@@ -1,6 +1,6 @@
 # 💎 UniQ: The Gateway to Qubic Ecosystem
 
-![UniQ Logo](IMG_0356.PNG)  
+![UniQ Logo](IMG_0356.png)  
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)  
 [![License](https://img.shields.io/badge/license-MIT-blue)](#)  
@@ -22,7 +22,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 **Visual Concept:**  
 🎓 Learn-to-Earn | 📊 Ecosystem Tracker | 💬 Community Chat
 
-![Executive Summary Visual](IMG_0332.PNG)
+![Executive Summary Visual](IMG_0332.png)
 
 </details>
 
@@ -40,7 +40,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 | Integrated Community | 💬 | Verified chat via Qubic ID |
 
 **Mockups / Visual Infographic:**  
-![Core Features](IMG_0333.PNG)
+![Core Features](IMG_0333.png)
 
 </details>
 
@@ -51,11 +51,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 <summary>Click to expand</summary>
 
 * **Phase 1 (Internal):** Utility token for learning & engagement  
-* **Phase 2 (Value Bridge):** Optional swap to QUBIC or native rewards  
-* **Total Supply:** 20,000,000 UNIQ  
-
-**Token Flow Diagram:**  
-![Tokenomics Diagram](IMG_0334.PNG)
+* **Phase 2 (Value Bridge):
 
 </details>
 
@@ -70,7 +66,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 * **Infrastructure:** Flutter (iOS/Android) + Node.js backend
 
 **Timeline Visual:**  
-![Roadmap Timeline](IMG_0334.PNG)
+![Roadmap Timeline](IMG_0334.png)
 
 </details>
 
@@ -84,7 +80,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 * Consolidates all ecosystem data in one app  
 * Educates users to reduce FUD and panic selling
 
-![Why UniQ](IMG_0332.PNG)
+![Why UniQ](IMG_0332.png)
 
 </details>
 
@@ -113,7 +109,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 | [Community Name] | Community Manager | Engagement, moderation, onboarding |
 
 **Visual Team Cards:**  
-![Team Cards](IMG_0333.PNG)
+![Team Cards](IMG_0333.png)
 
 </details>
 
@@ -131,7 +127,7 @@ We solve the "complexity barrier" by combining **real-time ecosystem tracking** 
 | Public Launch & L2E Rewards | Jun 2026 | Official release with Learn-to-Earn activation |
 | Phase 2: QUBIC Rewards / Ecosystem Integration | Q3 2026 | Optional swap to QUBIC and deeper integration |
 
-![Timeline Graphic](IMG_0334.PNG)
+![Timeline Graphic](IMG_0334.png)
 
 </details>
 
