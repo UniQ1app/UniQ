@@ -4,7 +4,7 @@
 
 # UniQ: The Interactive Gateway to Qubic Academy 🎓🚀
 
-**UniQ** is a gamified, mobile-first onboarding platform designed to act as the interactive interface for the official **Qubic Academy**. We transform complex technical documentation into engaging, rewarding learning experiences.
+**UniQ** is a gamified, mobile-first onboarding platform designed to act as the interactive interface for the official **Qubic Academy**. Our mission is to bridge the gap between complex blockchain technology and new users by transforming passive learning into an engaging, rewarded experience.
 
 ---
 
@@ -21,17 +21,12 @@
 
 ---
 
-## 🎯 Current Focus & Mission
+## 🎯 Core Modules
 
-As the Qubic ecosystem expands, we are currently prioritizing the creation of simplified onboarding funnels for:
-* **Oracles & Bridges:** Step-by-step guides on cross-chain interactions.
-* **Stablecoins:** Understanding liquidity and stability within Qubic.
-* **PerpDEX:** Gamified tutorials on decentralized perpetual trading.
-
-### Key Features:
-* **Learn-to-Earn (L2E):** Users earn $UNIQ rewards for completing educational milestones.
-* **Interactive Quizzes:** Testing knowledge before users interact with real assets.
-* **Mobile-First Access:** Making the Qubic Academy accessible anytime, anywhere.
+* **Interactive Academy Portal:** A mobile-optimized interface for official Qubic Academy lessons.
+* **Learn-to-Earn (L2E) Engine:** Users earn $UNIQ rewards for completing lessons and passing quizzes.
+* **Ecosystem Directory:** A curated list of Qubic dApps with integrated tutorials to guide users toward partner projects.
+* **Gamification:** Personal profiles with knowledge levels, badges, and community achievements.
 
 ---
 
