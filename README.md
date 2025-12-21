@@ -2,11 +2,11 @@
 
 **"Educating the next wave of Qubic users through Gamification and Transparency."**
 
-[span_0](start_span)UniQ is a modular ecosystem built to eliminate information fragmentation within the Qubic network[span_0](end_span). [span_1](start_span)We integrate real-time news, market data, and a Learn-to-Earn (L2E) platform into a single mobile-first interface[span_1](end_span). [span_2](start_span)Our goal is to transform passive observers into educated, active participants[span_2](end_span).
+[span_0](start_span)UniQ is a modular ecosystem built to eliminate information fragmentation within the Qubic network[span_0](end_span). [span_1](start_span)We integrate real-time news, market data, and a Learn-to-Earn (L2E) platform into a single mobile-first interface[span_1](end_span). [span_2](start_span)Our goal is to transform passive observers into educated, active participants, increasing the overall value of the Qubic ecosystem[span_2](end_span).
 
 ---
 
-## 📱 Interface Preview
+## 📱 App Preview
 <p align="center">
   <img src="IMG_0356.png" width="220" alt="UniQ Logo">
 </p>
@@ -24,10 +24,10 @@
 
 ## 🎯 Core Modules (MVP Focus)
 
-* **[span_3](start_span)News & Market Aggregator:** Automated feeds from official sources (Discord/Telegram/RSS) combined with real-time indicators[span_3](end_span).
-* **[span_4](start_span)Learn-to-Earn (L2E) Engine:** Interactive courses where users earn $UNIQ rewards for completing lessons and passing quizzes[span_4](end_span).
+* **[span_3](start_span)News & Market Aggregator:** Automated feeds from official sources (Discord/Telegram/RSS) combined with real-time market indicators[span_3](end_span).
+* **[span_4](start_span)Learn-to-Earn (L2E) Engine:** Interactive courses where users earn $UNIQ rewards for completing lessons and passing quizzes about Qubic technology[span_4](end_span).
 * **[span_5](start_span)Project Tracker:** A transparency dashboard that monitors the progress and milestones of projects within the ecosystem[span_5](end_span).
-* **[span_6](start_span)User Dashboard & Gamification:** Personalized profiles tracking knowledge levels, badges, and activity to ensure long-term retention[span_6](end_span).
+* **[span_6](start_span)User Dashboard & Gamification:** Personalized profiles tracking knowledge levels and badges to ensure long-term retention[span_6](end_span).
 
 ---
 
@@ -42,6 +42,8 @@ $UNIQ is a **pure utility token** designed to power the UniQ application and inc
 | **Team & Advisors** | 20% | Vested for long-term project development. |
 | **Treasury / DAO** | 15% | Long-term platform sustainability. |
 | **Liquidity** | 5% | Ensuring ecosystem stability. |
+
+
 
 ---
 
@@ -64,8 +66,8 @@ $UNIQ is a **pure utility token** designed to power the UniQ application and inc
 ---
 
 ## 👤 Contact & Resources
-* **Team:** UniQ Core | **[span_14](start_span)Discord:** old_source[span_14](end_span)
-* **Full Documentation:** [Download UniQ One-Pager (PDF)](UniQ.pdf)
+* **Team:** UniQ Core | **Discord:** old_source
+* **[span_14](start_span)Documentation:** [Download UniQ One-Pager (PDF)](UniQ.pdf)[span_14](end_span)
 
 <p align="center">
   <i>Built to support the Qubic Marketing & Academy Teams.</i>
