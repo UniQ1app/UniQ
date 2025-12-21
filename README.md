@@ -1,58 +1,52 @@
-# UniQ: The Gateway to the Qubic Ecosystem 🚀
+# UniQ: The Interactive Gateway to Qubic Academy 🎓🚀
 
-UniQ is an all-in-one educational and informational platform designed to accelerate user adoption within the Qubic Network. By combining real-time data, community news, and a **Learn-to-Earn (L2E)** gamification engine, UniQ turns curiosity into expertise.
-
----
-
-## 🌟 Key Features
-
-- **L2E Engine:** Interactive modules that reward users with $UNIQ for completing verified lessons.
-- **Incubator Tracker:** Real-time monitoring of Era 192 project milestones and QA status.
-- **News Aggregator:** Filtered, high-signal feeds from Qubic Discord, Telegram, and official RSS.
-- **Market Insights:** Real-time Qubic price action, burn rates, and macro-economic indicators.
+UniQ is a mobile-first, gamified onboarding platform designed to bridge the gap between complex blockchain technology and new users. By transforming official Qubic Academy content into interactive modules, we turn passive observers into active, educated participants.
 
 ---
 
-## 🏗️ Technical Architecture
+## 🌟 Core Modules
 
-UniQ is built with a modular, scalable approach to ensure low-cost maintenance and high performance.
-
-- **Frontend:** Flutter (iOS/Android/Web) for a consistent, mobile-first UX.
-- **Backend:** Node.js with Express and WebSockets for real-time updates.
-- **Database:** PostgreSQL for structured data & Redis for high-speed price caching.
-- **Integrations:** CoinGecko API, GitHub API (for project tracking), and Discord/Telegram Webhooks.
-
-
+- **Interactive Academy Portal:** A mobile interface for official Qubic Academy lessons, optimized for high engagement and retention.
+- **Learn-to-Earn (L2E) Engine:** Users earn rewards for completing verified lessons and passing quizzes, incentivizing deep ecosystem knowledge.
+- **Ecosystem Directory:** A curated list of Qubic dApps with integrated tutorials to onboard users directly into partner projects.
+- **Onboarding Gamification:** Personalized user profiles featuring knowledge levels, badges, and community-driven achievements.
 
 ---
 
-## 📅 Roadmap (Era 192 - Phase 1)
+## 🎯 Our Mission: Educational Synergy
 
-### Milestone 1: Core Information Hub (Jan–Feb)
-- [ ] Integration of CoinGecko & Macro Market APIs.
-- [ ] Automated News Aggregator development.
-- [ ] Initial Project Tracker UI for Incubator projects.
-
-### Milestone 2: Gamification & L2E (Mar–Apr)
-- [ ] Implementation of the Quiz logic.
-- [ ] User Profile & Knowledge Level tracking.
-- [ ] $UNIQ reward distribution smart logic (Off-chain beta).
-
-### Milestone 3: Security & Wallet (May–Jun)
-- [ ] Non-custodial wallet integration.
-- [ ] Security audits & Community QA cycles.
+UniQ is designed to support the **Qubic Marketing Team** and **Academy** by:
+1. **Lowering the Entry Barrier:** Simplifies technical concepts for mobile users.
+2. **Incentivizing Learning:** Uses the L2E model to reward curiosity and expertise.
+3. **Driving Traffic:** Acts as a funnel, sending educated users directly to live dApps in the Qubic ecosystem.
 
 ---
 
-## 🛠️ Installation & Setup (For Developers)
+## 📅 Roadmap (Education Focus)
 
-### Prerequisites
-- Flutter SDK `^3.x`
-- Node.js `^18.x`
-- Docker (optional, for DB setup)
+### Phase 1: Interactive Foundation (Jan–Feb)
+- [ ] Integration of official Qubic Academy RSS and News feeds.
+- [ ] Development of the Mobile Dashboard for lesson browsing.
+- [ ] Setup of community donation infrastructure via Discord.
 
-### Steps
-1. **Clone the repo**
-   ```bash
-   git clone [https://github.com/uniq1app/uniq-app.git](https://github.com//uniq-app.git)
+### Phase 2: Gamification & Rewards (Mar–Apr)
+- [ ] Implementation of the Quiz Engine and L2E reward logic.
+- [ ] Launch of "Project Spotlights" for other Era 192 dApps.
+- [ ] Beta testing of User Profiles and Knowledge Badges.
 
+### Phase 3: Wallet & Marketplace (May–Jun)
+- [ ] Non-custodial wallet integration for reward claims.
+- [ ] Educational Marketplace for advanced community-created content.
+
+---
+
+## 🛠 Technical Stack
+- **Frontend:** Flutter (Mobile & Web)
+- **Backend:** Node.js / Express
+- **Engagement:** Real-time WebSockets for reward notifications.
+
+---
+
+## 👥 Connect with UniQ
+- **Project Lead:** old_source
+- **Discord Community:** [ in progress ]
