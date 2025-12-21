@@ -1,52 +1,65 @@
+<p align="center">
+  <img src="IMG_0356.png" width="250" alt="UniQ Logo">
+</p>
+
 # UniQ: The Interactive Gateway to Qubic Academy 🎓🚀
 
-UniQ is a mobile-first, gamified onboarding platform designed to bridge the gap between complex blockchain technology and new users. By transforming official Qubic Academy content into interactive modules, we turn passive observers into active, educated participants.
+**UniQ** is a gamified, mobile-first onboarding platform designed to act as the interactive interface for the official **Qubic Academy**. We transform complex technical documentation into engaging, rewarding learning experiences.
 
 ---
 
-## 🌟 Core Modules
-
-- **Interactive Academy Portal:** A mobile interface for official Qubic Academy lessons, optimized for high engagement and retention.
-- **Learn-to-Earn (L2E) Engine:** Users earn rewards for completing verified lessons and passing quizzes, incentivizing deep ecosystem knowledge.
-- **Ecosystem Directory:** A curated list of Qubic dApps with integrated tutorials to onboard users directly into partner projects.
-- **Onboarding Gamification:** Personalized user profiles featuring knowledge levels, badges, and community-driven achievements.
-
----
-
-## 🎯 Our Mission: Educational Synergy
-
-UniQ is designed to support the **Qubic Marketing Team** and **Academy** by:
-1. **Lowering the Entry Barrier:** Simplifies technical concepts for mobile users.
-2. **Incentivizing Learning:** Uses the L2E model to reward curiosity and expertise.
-3. **Driving Traffic:** Acts as a funnel, sending educated users directly to live dApps in the Qubic ecosystem.
+## 📱 App Preview
+<p align="center">
+  <img src="IMG_0324.png" width="200" alt="Mockup 1">
+  <img src="IMG_0332.png" width="200" alt="Mockup 2">
+  <img src="IMG_0333.png" width="200" alt="Mockup 3">
+</p>
+<p align="center">
+  <img src="IMG_0334.png" width="200" alt="Mockup 4">
+  <img src="IMG_0335.png" width="200" alt="Mockup 5">
+</p>
 
 ---
 
-## 📅 Roadmap (Education Focus)
+## 🎯 Current Focus & Mission
 
-### Phase 1: Interactive Foundation (Jan–Feb)
-- [ ] Integration of official Qubic Academy RSS and News feeds.
-- [ ] Development of the Mobile Dashboard for lesson browsing.
-- [ ] Setup of community donation infrastructure via Discord.
+As the Qubic ecosystem expands, we are currently prioritizing the creation of simplified onboarding funnels for:
+* **Oracles & Bridges:** Step-by-step guides on cross-chain interactions.
+* **Stablecoins:** Understanding liquidity and stability within Qubic.
+* **PerpDEX:** Gamified tutorials on decentralized perpetual trading.
 
-### Phase 2: Gamification & Rewards (Mar–Apr)
-- [ ] Implementation of the Quiz Engine and L2E reward logic.
-- [ ] Launch of "Project Spotlights" for other Era 192 dApps.
-- [ ] Beta testing of User Profiles and Knowledge Badges.
-
-### Phase 3: Wallet & Marketplace (May–Jun)
-- [ ] Non-custodial wallet integration for reward claims.
-- [ ] Educational Marketplace for advanced community-created content.
+### Key Features:
+* **Learn-to-Earn (L2E):** Users earn $UNIQ rewards for completing educational milestones.
+* **Interactive Quizzes:** Testing knowledge before users interact with real assets.
+* **Mobile-First Access:** Making the Qubic Academy accessible anytime, anywhere.
 
 ---
 
-## 🛠 Technical Stack
-- **Frontend:** Flutter (Mobile & Web)
-- **Backend:** Node.js / Express
-- **Engagement:** Real-time WebSockets for reward notifications.
+## 💎 Tokenomics ($UNIQ)
+
+| Allocation | Percentage | Purpose |
+| :--- | :--- | :--- |
+| **Learn-to-Earn Rewards** | 40% | Direct user incentives for education. |
+| **Development & Ops** | 25% | Infrastructure and platform scaling. |
+| **Liquidity & Community** | 20% | Ecosystem stability and community support. |
+| **Team & Advisors** | 15% | Long-term growth (12-month vesting). |
 
 ---
 
-## 👥 Connect with UniQ
-- **Project Lead:** old_source
-- **Discord Community:** [ in progress ]
+## 🛠 Project Roadmap
+
+- [x] Concept & UI Mockups
+- [ ] Mobile Dashboard Development
+- [ ] Integration of Qubic Academy RSS/News Feed
+- [ ] L2E Reward Engine Implementation
+- [ ] Wallet Integration for $UNIQ Claims
+
+---
+
+## 👤 About the Developer
+I am **old_source**, a long-time Qubic supporter and enthusiast. UniQ is born from the vision of making Qubic the most accessible blockchain for the masses through superior education and UX.
+
+---
+<p align="center">
+  <i>Built to support the Qubic Marketing & Academy Teams.</i>
+</p>
