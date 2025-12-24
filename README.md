@@ -1,279 +1,113 @@
-# UniQ — The Educational Hub of the Qubic Ecosystem
-
-> **Learn. Practice. Earn.**
-
-UniQ is a **Learn-to-Earn educational and practice platform** designed to onboard, train, and retain highly educated users within the **Qubic ecosystem**.
-
-UniQ is built in **two complementary phases**:
-- **Phase 1**: Education & Certification  
-- **Phase 2**: Live Practice of the Qubic System  
-
-Together, they create a living, evolving application that mirrors how Qubic actually works.
+# UNIQ: Universal Intelligent Qubic
+**White Paper — Educational & Governance Ecosystem**
 
 ---
 
-## 🎯 Vision
+## 1. Vision and Objectives
 
-UniQ transforms passive users into **active, competent participants**.
+UniQ is a **Learn-to-Earn** mobile platform designed to transform community engagement within the Qubic ecosystem.
 
-The goal is not only to learn Qubic —  
-but to **live it, practice it, and understand its incentives from the inside**.
-
-UniQ builds:
-- Strong hands instead of emotional holders
-- Merit instead of speculation
-- Long-term conviction instead of hype cycles
+- **Expertise:** Turning passive users into *Power-Users* and qualified ambassadors.
+- **Circular Economy:** Creating intrinsic value through the UNIQ token, supported by real deflationary mechanisms.
+- **Network Simulator:** Reproducing Qubic's hierarchy (Quorum 676, Computors, Arbitrators, Miners) to educate through practice.
 
 ---
 
-## 🧠 Core Philosophy
+## 2. User Journey and Grades
 
-> *“People don’t truly understand a system until they live inside it.”*
+Ascension within UniQ is strictly meritocratic, based on knowledge acquisition.
 
-UniQ reproduces Qubic’s logic:
-- Roles
-- Competition
-- Rotation
-- Responsibility
-- Incentives
-
-Education alone is not enough.  
-**Practice is what keeps the system alive.**
+- **Training Hierarchy:** Novice → Pathfinder → Expert → Legend → Master
+- **Educational Tools:** Interactive quizzes, flashcards, and practical simulations.
+- **Examination System:** Accessing higher grades requires a payment in UNIQ. Any failure results in the burning of the committed tokens.
+- **Anti-Cheat:** Qubic ID integration, dynamic question banks, and strict timers.
 
 ---
 
-# 🧩 PHASE 1 — Education & Certification (Foundation)
+## 3. Tokenomics
 
-**Phase 1 is fully managed by the UniQ team.**
+The UNIQ token is the heart of a closed-loop system designed for scarcity.
 
-This phase focuses on structured learning, validation of knowledge, and economic discipline.
-
-### 🎓 Learning Content
-- Qubic fundamentals
-- Computors & quorum logic
-- Oracles & AI layers
-- Consensus & incentives
-- Security & network behavior
+- **Total Supply:** 20,000,000 UNIQ
+- **The "Golden Split" (Flow Distribution):**
+  - **50% BURN:** Immediate destruction to ensure constant deflation.
+  - **30% REWARDS:** Direct compensation for active network participants (Miners & Computors).
+  - **20% TREASURY:** Technical maintenance and AI evolution.
 
 ---
 
-## 🏆 Certification & Progression System
+## 4. Roles and Governance (Phase 2)
 
-Users progress through verified grades:
+The project shifts to full autonomy once the critical mass of experts is reached.
 
-### • Novice
-- Basic onboarding
-- Ecosystem overview
+**Selection and Responsibilities:**
 
-### • Pathfinder
-- Intermediate protocol understanding
-- Guided ecosystem exploration
-
-### • Expert
-- Advanced technical exams
-- Unlocks premium tools
-
-### • Legend (Elite)
-- Maximum rewards
-- Advanced analytics
-- Macro & network intelligence
+- **Computors (676 members):** Elected from the top-performing "Masters." Stake UNIQ collateral. Vote on governance and validate content.
+- **Miners (uPoW - User Proof-of-Work):** Creators of educational content. Earn UNIQ if their work is validated by Computors.
+- **Arbitrators (50 members):** Randomly selected weekly from active Computors to ensure impartial justice and resolve disputes.
+- **AIGARTH (AI Tutor):** Acts as a personal tutor and system guardian during the growth phase.
 
 ---
 
-## 🔥 Burn Mechanism (Phase 1)
+## 5. Roadmap and Smart Transition
 
-- Higher-tier exams require **$UNIQ**
-- If a user fails → tokens are **permanently burned**
+### Phase 1: The Forge (Launch)
+- Open learning modules and exams.
+- Assisted Governance: AIGARTH AI fulfills Quorum functions while first human Masters are trained.
 
-This ensures:
-- Serious participation
-- No farming
-- Economic responsibility
+### Phase 2: Critical Competence Threshold (CCT)
+- **Target:** 6,760 active users
+- **Transition:** At this threshold, the system possesses enough experts (10%) to fill the 676 Computor seats.
+- **Handover:** Human Quorum takes full control; AI reverts to a support role.
 
----
-
-## 🛠 Premium Alpha Tools (SaaS)
-
-Available after certification:
-
-- **Qubic Pulse** — AI sentiment & trend analysis
-- **Whale & Launch Tracker**
-- **Safe Scanner** — Smart contract risk detection
-- **AI Tutor 24/7** — Personalized learning assistant
-
-♻️ **100% of subscription fees are burned monthly**
+### Phase 3: Ecosystem Expansion
+- Integration of third-party Qubic projects (QMine, QCap, QBay)
+- Launch global ambassador program and access to IPOs via UNIQ token
 
 ---
 
-# ⚙️ PHASE 2 — Live Practice & Qubic Simulation (CRITICAL)
+## 6. Risk & Attack Model
 
-**Phase 2 is the heart that keeps UniQ alive.**  
-This phase **requires collaboration with a Qubic developer**, as it mirrors real Qubic mechanics.
+This section outlines potential risks to the UniQ ecosystem and the mitigation mechanisms in place.
 
-While Phase 1 teaches,
-👉 **Phase 2 makes users live the system.**
+### 6.1 Governance Risks
+- **Centralization Risk:** During Phase 1, a small number of users may dominate decision-making.  
+  *Mitigation:* AIGARTH AI supervises critical operations; all decisions logged on-chain.
+- **Collusion among Computors:** Top performers could bias content validation.  
+  *Mitigation:* 50 Arbitrators randomly selected weekly.
+- **Quorum Shortfall:** Fewer than 10% of active users reach Master status before CCT.  
+  *Mitigation:* Partial AI governance persists until quorum seats are fully filled.
 
----
+### 6.2 Economic Risks
+- **Token Hoarding:** Users accumulating UNIQ without contributing.  
+  *Mitigation:* Exam fees burned on failure; rewards mainly to active participants.
+- **Market Volatility:** Deflationary mechanics may create temporary spikes.  
+  *Mitigation:* Treasury allocation stabilizes operations and incentives.
 
-## 🧬 Why Phase 2 Is Crucial
+### 6.3 Technical Risks
+- **Smart Contract Bugs:** Errors in payments, staking, or rewards logic.  
+  *Mitigation:* Modular, upgradable contracts with continuous AI/human audits.
+- **Sybil Attacks:** Fake accounts manipulating progression.  
+  *Mitigation:* Qubic ID, dynamic question banks, and strict timers.
 
-Without Phase 2:
-- Phase 1 can feel “finished”
-- Users may lose interest after certifications
-- The app risks becoming static
+### 6.4 Security Recommendations
+1. Conduct third-party smart contract audits before Phase 2 activation.
+2. Maintain real-time analytics for token flows and user activity.
+3. Allow temporary AI-assisted governance in case of quorum disruption.
+4. Enable community reporting for early detection of fraud or collusion.
 
-With Phase 2:
-- There is **always something to do**
-- Competition never stops
-- Users stay active, engaged, and progressing
-- The app becomes a living ecosystem
-
----
-
-## 🔄 What Happens in Phase 2
-
-Users actively participate in **simulated Qubic roles**:
-
-### 👤 Roles Practiced
-
-- **Computors (Simulated)**  
-  - Elected based on performance
-  - Responsible for validation tasks
-  - Subject to rotation and evaluation
-
-- **Arbitrators**  
-  - Monitor fairness
-  - Resolve disputes
-  - Enforce rules
-
-- **Miners / Contributors**
-  - Support the system
-  - Earn through consistency and accuracy
+> **Note:** This Risk & Attack Model evolves continuously as the UniQ network grows. Updates will be published on GitHub to maintain transparency and trust.
 
 ---
 
-## ⏱ Epoch-Based Evaluation
+## 7. Final Note
 
-- Performance is evaluated every **epoch (7 days)**  
-- Users can:
-  - Rise in rank
-  - Lose privileges
-  - Be rotated out
+UniQ is **the essential training and command center** for the Qubic network.  
+It ensures:
 
-This mirrors real Qubic dynamics:
-- No permanent power
-- No stagnation
-- Meritocracy only
+- Long-term stability
+- Organic creation of Computors
+- Sustainable token economy
+- Education-driven meritocracy
 
----
-
-## 🔐 Collateral & Responsibility
-
-To access high-responsibility roles:
-- Users must **stake (lock) $UNIQ**
-- Misbehavior or inactivity results in:
-  - Partial burn of the collateral
-
-This guarantees:
-- Honest behavior
-- No sabotage
-- Accountability
-
----
-
-## 🧠 Learning by Doing
-
-Phase 2 transforms theory into practice:
-- Users apply what they learned in Phase 1
-- They experience competition, pressure, rotation
-- They understand Qubic not intellectually — but **experientially**
-
-This creates:
-- Deep understanding
-- Respect for the protocol
-- Long-term commitment
-
----
-
-## 📰 Live Interface Modules (Managed by UniQ Team)
-
-The UniQ team manages:
-- News modules
-- Network updates
-- Educational content
-- Interface & UX
-
-Even non-competitive users benefit:
-- Daily insights
-- Network transparency
-- Real utility
-
----
-
-# 📊 Tokenomics
-
-**Total Supply:** 20,000,000 $UNIQ
-
-- **75%** — Community & Education
-- **15%** — Team & Development
-- **10%** — Strategic Reserve
-
-### Deflation Mechanics
-- Exam failures → burn
-- Subscriptions → burn
-- Collateral penalties → burn
-
----
-
-## 📈 Economic Simulation (1,000 Active Users)
-
-| Metric | Monthly |
-|------|--------|
-| Exam burns | ~100,000 $UNIQ |
-| Subscription burns | ~36,000 $UNIQ |
-| Annual supply reduction | ~8% |
-
----
-
-## 🛡 Security & Anti-Cheat
-
-- Dynamic question pools
-- Time-restricted exams
-- Qubic ID integration
-- One human = one account
-
----
-
-## 🤝 Collaboration with Qubic
-
-- **Phase 1**: Fully handled by UniQ team  
-- **Phase 2**: Requires Qubic developer collaboration  
-- Goal: Align UniQ as a **native ecosystem amplifier**, not a competitor
-
----
-
-## 🔐 Intellectual Property
-
-The UniQ concept, architecture, and documentation are:
-- Fully documented
-- Timestamped
-- Legally registered
-
----
-
-## 🧬 Final Statement
-
-UniQ is not just an app.
-
-It is:
-- An educational gateway
-- A practice arena
-- A meritocratic simulation
-- A long-term retention engine for Qubic
-
-> **You don’t just learn Qubic.  
-You live it.**
-
----
-
-© 2025 UniQ — Built for the Qubic Community
+The UniQ model is fully designed to **scale with Qubic**, preparing the ecosystem for a future of autonomous governance and secure decentralized growth.
