@@ -1,113 +1,117 @@
 # UNIQ: Universal Intelligent Qubic
-**White Paper — Educational & Governance Ecosystem**
+**White Paper + SWOT + Risk & FAQ**  
+Educational & Governance Ecosystem
 
 ---
 
-## 1. Vision and Objectives
+## 1️⃣ Vision and Objectives
 
-UniQ is a **Learn-to-Earn** mobile platform designed to transform community engagement within the Qubic ecosystem.
+UniQ is a **Learn-to-Earn** mobile platform transforming community engagement in the Qubic ecosystem.
 
-- **Expertise:** Turning passive users into *Power-Users* and qualified ambassadors.
-- **Circular Economy:** Creating intrinsic value through the UNIQ token, supported by real deflationary mechanisms.
-- **Network Simulator:** Reproducing Qubic's hierarchy (Quorum 676, Computors, Arbitrators, Miners) to educate through practice.
+- **Expertise:** Turn passive users into *Power-Users* and qualified ambassadors.
+- **Circular Economy:** Create intrinsic value via UNIQ token with deflationary mechanisms.
+- **Network Simulator:** Reproduce Qubic's hierarchy (Quorum 676, Computors, Arbitrators, Miners) for practical learning.
 
 ---
 
-## 2. User Journey and Grades
-
-Ascension within UniQ is strictly meritocratic, based on knowledge acquisition.
+## 2️⃣ User Journey and Grades
 
 - **Training Hierarchy:** Novice → Pathfinder → Expert → Legend → Master
-- **Educational Tools:** Interactive quizzes, flashcards, and practical simulations.
-- **Examination System:** Accessing higher grades requires a payment in UNIQ. Any failure results in the burning of the committed tokens.
-- **Anti-Cheat:** Qubic ID integration, dynamic question banks, and strict timers.
+- **Educational Tools:** Interactive quizzes, flashcards, practical simulations
+- **Examination System:** Access higher grades via UNIQ payment; failed exams burn tokens
+- **Anti-Cheat:** Qubic ID, dynamic question banks, strict timers
 
 ---
 
-## 3. Tokenomics
+## 3️⃣ Tokenomics
 
-The UNIQ token is the heart of a closed-loop system designed for scarcity.
+| Allocation | Purpose |
+|------------|---------|
+| 50% Burn | Scarcity and deflation |
+| 30% Rewards | Active participants (Miners & Computors) |
+| 20% Treasury | Technical maintenance & AI evolution |
 
-- **Total Supply:** 20,000,000 UNIQ
-- **The "Golden Split" (Flow Distribution):**
-  - **50% BURN:** Immediate destruction to ensure constant deflation.
-  - **30% REWARDS:** Direct compensation for active network participants (Miners & Computors).
-  - **20% TREASURY:** Technical maintenance and AI evolution.
-
----
-
-## 4. Roles and Governance (Phase 2)
-
-The project shifts to full autonomy once the critical mass of experts is reached.
-
-**Selection and Responsibilities:**
-
-- **Computors (676 members):** Elected from the top-performing "Masters." Stake UNIQ collateral. Vote on governance and validate content.
-- **Miners (uPoW - User Proof-of-Work):** Creators of educational content. Earn UNIQ if their work is validated by Computors.
-- **Arbitrators (50 members):** Randomly selected weekly from active Computors to ensure impartial justice and resolve disputes.
-- **AIGARTH (AI Tutor):** Acts as a personal tutor and system guardian during the growth phase.
+**Total Supply:** 20,000,000 UNIQ
 
 ---
 
-## 5. Roadmap and Smart Transition
+## 4️⃣ Governance & Roles (Phase 2)
 
-### Phase 1: The Forge (Launch)
-- Open learning modules and exams.
-- Assisted Governance: AIGARTH AI fulfills Quorum functions while first human Masters are trained.
-
-### Phase 2: Critical Competence Threshold (CCT)
-- **Target:** 6,760 active users
-- **Transition:** At this threshold, the system possesses enough experts (10%) to fill the 676 Computor seats.
-- **Handover:** Human Quorum takes full control; AI reverts to a support role.
-
-### Phase 3: Ecosystem Expansion
-- Integration of third-party Qubic projects (QMine, QCap, QBay)
-- Launch global ambassador program and access to IPOs via UNIQ token
+- **Computors (676):** Top Masters, stake UNIQ, validate content, vote
+- **Miners (uPoW):** Create content, earn UNIQ when validated
+- **Arbitrators (50 weekly):** Randomly selected to ensure impartiality
+- **AIGARTH (AI Tutor):** Supervises Phase 1, guides users, supports system
 
 ---
 
-## 6. Risk & Attack Model
+## 5️⃣ Roadmap & Smart Transition
 
-This section outlines potential risks to the UniQ ecosystem and the mitigation mechanisms in place.
-
-### 6.1 Governance Risks
-- **Centralization Risk:** During Phase 1, a small number of users may dominate decision-making.  
-  *Mitigation:* AIGARTH AI supervises critical operations; all decisions logged on-chain.
-- **Collusion among Computors:** Top performers could bias content validation.  
-  *Mitigation:* 50 Arbitrators randomly selected weekly.
-- **Quorum Shortfall:** Fewer than 10% of active users reach Master status before CCT.  
-  *Mitigation:* Partial AI governance persists until quorum seats are fully filled.
-
-### 6.2 Economic Risks
-- **Token Hoarding:** Users accumulating UNIQ without contributing.  
-  *Mitigation:* Exam fees burned on failure; rewards mainly to active participants.
-- **Market Volatility:** Deflationary mechanics may create temporary spikes.  
-  *Mitigation:* Treasury allocation stabilizes operations and incentives.
-
-### 6.3 Technical Risks
-- **Smart Contract Bugs:** Errors in payments, staking, or rewards logic.  
-  *Mitigation:* Modular, upgradable contracts with continuous AI/human audits.
-- **Sybil Attacks:** Fake accounts manipulating progression.  
-  *Mitigation:* Qubic ID, dynamic question banks, and strict timers.
-
-### 6.4 Security Recommendations
-1. Conduct third-party smart contract audits before Phase 2 activation.
-2. Maintain real-time analytics for token flows and user activity.
-3. Allow temporary AI-assisted governance in case of quorum disruption.
-4. Enable community reporting for early detection of fraud or collusion.
-
-> **Note:** This Risk & Attack Model evolves continuously as the UniQ network grows. Updates will be published on GitHub to maintain transparency and trust.
+**Phase 1: The Forge** – Learning & AI supervision  
+**Phase 2: Critical Competence Threshold (CCT)** – 6,760 users → 676 Computors  
+**Phase 3: Ecosystem Expansion** – Integrate QMine, QCap, QBay; launch global ambassadors & IPO access
 
 ---
 
-## 7. Final Note
+## 6️⃣ SWOT Analysis
 
-UniQ is **the essential training and command center** for the Qubic network.  
-It ensures:
+| Category | Details |
+|----------|---------|
+| **Strengths** | - Perfect Qubic alignment (training Computors)<br>- Deflationary tokenomics<br>- Meritocratic system<br>- Intelligent governance (Arbitrators + AI)<br>- Clear, scalable roadmap |
+| **Weaknesses** | - Dependence on AI Phase 1<br>- High complexity for beginners<br>- Requires sufficient active users to reach CCT<br>- Needs strong engagement to avoid stagnation |
+| **Opportunities** | - First official Computor laboratory<br>- Replicable for other chains/projects<br>- Standard for community training & activation<br>- Partnerships for IPO and third-party integration |
+| **Threats** | - Low adoption or user drop-off<br>- Token volatility if usage limited<br>- Smart contract bugs<br>- Perception issues with pay-to-learn or AI governance |
 
-- Long-term stability
-- Organic creation of Computors
-- Sustainable token economy
-- Education-driven meritocracy
+---
 
-The UniQ model is fully designed to **scale with Qubic**, preparing the ecosystem for a future of autonomous governance and secure decentralized growth.
+## 7️⃣ Risk & Attack Model
+
+**Governance Risks**
+- Centralization early Phase 1 → Mitigation: AI audit logs
+- Collusion → 50 random Arbitrators weekly
+- Quorum Shortfall → Partial AI supervision until quorum reached
+
+**Economic Risks**
+- Token hoarding → Exam burn + reward distribution
+- Market volatility → Treasury allocation stabilizes ecosystem
+
+**Technical Risks**
+- Smart contract bugs → Modular contracts, AI & human audits
+- Sybil attacks → Qubic ID, dynamic questions, timers
+
+**Security Recommendations**
+1. Third-party audits before Phase 2
+2. Real-time monitoring
+3. Temporary AI governance fallback
+4. Community reporting system
+
+---
+
+## 8️⃣ FAQ – Expected Questions & Strategic Answers
+
+**Q1:** Why 6,760 users & 10% excellence?  
+**A1:** Guarantees 676 qualified Computors (10%), ensuring Phase 2 readiness.
+
+**Q2:** What if quorum not reached?  
+**A2:** AI AIGARTH continues partial governance; operations auditable and reversible.
+
+**Q3:** How to prevent Computor collusion?  
+**A3:** Random weekly selection of 50 Arbitrators; blockchain audit logs.
+
+**Q4:** Role of AI AIGARTH?  
+**A4:** Supervises Phase 1 only; secondary in Phase 2; no permanent power.
+
+**Q5:** How motivate users to pay for exams?  
+**A5:** Gamification, recognition, progression, and UNIQ rewards; tokens burned on failure.
+
+**Q6:** Economic risks for UNIQ/Qubic?  
+**A6:** Deflationary tokenomics + treasury stabilizes rewards and operations.
+
+**Q7:** Security against Sybil attacks?  
+**A7:** Mandatory Qubic ID, dynamic question banks, strict timers, behavior tracking.
+
+**Q8:** Token volatility/liquidity issues?  
+**A8:** Treasury allocation + organic demand from active users ensures stability.
+
+---
+
+## 9️⃣ Timeline Visual (ASCII Style)
