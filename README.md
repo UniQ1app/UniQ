@@ -1,5 +1,5 @@
 # UNIQ: Universal Intelligent Qubic
-**White Paper + SWOT + Risk & FAQ**  
+**White Paper + Tokenomics + SWOT + Risk & FAQ**  
 Educational & Governance Ecosystem
 
 ---
@@ -23,15 +23,32 @@ UniQ is a **Learn-to-Earn** mobile platform transforming community engagement in
 
 ---
 
-## 3️⃣ Tokenomics
+## 3️⃣ Tokenomics (Updated)
 
-| Allocation | Purpose |
-|------------|---------|
-| 50% Burn | Scarcity and deflation |
-| 30% Rewards | Active participants (Miners & Computors) |
-| 20% Treasury | Technical maintenance & AI evolution |
+### a) Total Supply
+- **20,000,000 UNIQ**
 
-**Total Supply:** 20,000,000 UNIQ
+### b) Initial Allocation
+
+| Recipient | % | Tokens | Notes |
+|-----------|---|--------|------|
+| **Creator / Developer** | 15 % | 3,000,000 UNIQ | For development, IP, long-term incentives |
+| **Early Contributors / Advisors** | 5 % | 1,000,000 UNIQ | Testing, QA, early adoption rewards |
+| **Treasury / Maintenance / AI** | 20 % | 4,000,000 UNIQ | Platform upkeep, AI evolution |
+| **Community Rewards / Users** | 55 % | 11,000,000 UNIQ | Rewards for engagement, learning, staking |
+| **Liquidity / Partnerships** | 5 % | 1,000,000 UNIQ | Exchanges, integrations, strategic partners |
+
+### c) Usage Flow – “Golden Split”
+
+When tokens are **spent inside the UniQ platform**:
+
+| Allocation | % | Purpose |
+|------------|---|---------|
+| **Burn** | 50 % | Permanently destroyed to ensure deflation |
+| **Rewards** | 30 % | Distributed to active participants (Miners & Computors) |
+| **Treasury** | 20 % | Supports platform operations, AI evolution, and maintenance |
+
+> ✅ Note: **The creator’s allocated tokens are not affected** by this burn, unless voluntarily spent in the app.
 
 ---
 
@@ -56,7 +73,7 @@ UniQ is a **Learn-to-Earn** mobile platform transforming community engagement in
 
 | Category | Details |
 |----------|---------|
-| **Strengths** | - Perfect Qubic alignment (training Computors)<br>- Deflationary tokenomics<br>- Meritocratic system<br>- Intelligent governance (Arbitrators + AI)<br>- Clear, scalable roadmap |
+| **Strengths** | - Perfect Qubic alignment (training Computors)<br>- Deflationary tokenomics with clear allocation<br>- Meritocratic system<br>- Intelligent governance (Arbitrators + AI)<br>- Clear, scalable roadmap |
 | **Weaknesses** | - Dependence on AI Phase 1<br>- High complexity for beginners<br>- Requires sufficient active users to reach CCT<br>- Needs strong engagement to avoid stagnation |
 | **Opportunities** | - First official Computor laboratory<br>- Replicable for other chains/projects<br>- Standard for community training & activation<br>- Partnerships for IPO and third-party integration |
 | **Threats** | - Low adoption or user drop-off<br>- Token volatility if usage limited<br>- Smart contract bugs<br>- Perception issues with pay-to-learn or AI governance |
@@ -124,6 +141,7 @@ UniQ = **command center for Qubic ecosystem**
 - Builds Computors organically  
 - Token economy sustainable & deflationary  
 - Education-driven meritocracy  
+- Creator’s part secured and incentives aligned  
 - Ready to scale and integrate with Qubic projects
 
 > Transparent, secure, and aligned with the long-term growth of Qubic.
