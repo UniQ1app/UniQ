@@ -1,19 +1,17 @@
-# 1. Executive Summary
+# 2. Philosophy & Core Dynamics
 
-UNIQ is a merit-based application-layer ecosystem built on Qubic.  
-Its main goal is to educate, filter, validate, and reward contributors who participate in the growth and adoption of the Qubic ecosystem.
+UNIQ channels human behaviors—curiosity, frustration, desire for recognition—into productive flows.
 
-## Key Objectives
-- Transform learning and verification into long-term ecosystem value
-- Filter opportunists automatically via system design
-- Extend and secure Qubic governance
+## Core Principles
+1. **Merit over Money:** Capital unlocks responsibility, not influence.
+2. **Contribution over Status:** Titles are earned dynamically.
+3. **Validation over Visibility:** Information becomes truth via consensus.
+4. **Long-Term Alignment:** Holding and verifying are rewarded; speculation reduces influence.
 
-## v2.0 Highlights
-- Systemic homeostasis: population self-regulation, auto-cleaning of data, automatic funding
-- Autonomous modules: Dynamic Difficulty Adjustment (DDA), Information Entropy, Shadow Auditing, Treasury Loop
-- Meritocratic governance: influence earned via contribution, not capital
+## Behavioral Mechanics
+- Curiosity → engagement in Academy
+- Frustration → motivates improvement
+- Recognition → Merit Score stimulates further contribution
 
-## Diagram 1.1 – UNIQ Overview
-Cadet → Challenger → Miner → Computor → Arbitrator
-[XP, Dust, UNIQ] flow between Hubs:
-Academy, Master Gate, Intelligence Hub, Forge, Social Hub, Identity Hub
+## Diagram 2.1 – Merit Flow
+Actions → XP → Merit → Role Upgrade → Governance Weight
