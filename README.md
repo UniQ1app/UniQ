@@ -1,3 +1,14 @@
+⚠️ This repository is archived.
+
+It contains early conceptual work based directly on the UNIQ whitepaper.
+
+Active development has moved to:
+- UniQ (Phase 1 – Web App)
+- UNIQ-Phase2-Qubic (Phase 2 – Blockchain)
+
+The whitepaper remains unchanged.
+
+
 # UNIQ: Universal Network for Information & Qualification v2.0
 
 **The Meritocratic Mirror of Qubic – Autonomous Architecture**
